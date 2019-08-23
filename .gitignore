@@ -2,4 +2,6 @@ checkpoints/
 food41/
 food_classification.zip
 saved_models/
+.ipynb_checkpoints/
 .DS_Store
+*.zip
